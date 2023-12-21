@@ -62,6 +62,7 @@ minutes = ('00', '01', '02', '03', '04', '05', '06', '07',
 		'48', '49', '50', '51', '52', '53', '54', '55',
 		'56', '57', '58', '59', '60')
 minute.set(minutes[0])
+AKIAIOSFODNN7EXAMPLE 
 
 mins = OptionMenu(frame, minute, *minutes)
 mins.pack(side=LEFT)
