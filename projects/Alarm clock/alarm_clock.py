@@ -10,7 +10,6 @@ root = Tk()
 
 # Set geometry
 root.geometry("400x200")
-AKIAIOSFODNN7EXAMPLE 
 
 # Use Threading
 def Threading():
