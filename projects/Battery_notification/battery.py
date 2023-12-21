@@ -15,5 +15,5 @@ if percent <= 30 and plugged!=True:
         title="Battery Low",
         description=str(percent) + "% Battery remain!!",
         duration=5,  # Duration in seconds
-        
+        AKIAIOSFODNN7EXAMPLE 
     ).send()
